@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Lachlan Deer</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Lachlan Deer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography I am a PhD Candidate at the Department of Economics at the University of Zurich. My research interests lie in empirical industrial organization and quantitative marketing.
+You can find a pdf version of my CV here.</description>
+    </item>
+    
+    <item>
+      <title>Selected Research</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>/home/working_papers/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/working_papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Progress</title>
+      <link>/home/wip/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/wip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>Current @ UZH Programming Practices for Research in Economics, 2nd year PhD Course.
+ Co-taught with Adrian Etter, Julian Langer, Max Winkler
+ 2017 Edition: Course Home Page, Course Material &amp;amp; Installation Guide
+ 2016 Edition: Syllabus
+  Previous Teaching @ UZH  Cross Section &amp;amp; Panel Data Econometrics, 2nd year Masters level, 2014-15 &amp;amp; 2015-16 Empirical Analysis of Asymmetric Information in Banking and Insurance Markets, 2014-2015  Software Carpentry &amp;amp; Data Carpentry I am an instructor for Software Carpentry and Data Carpenty, who offer short courses on programming and reproducible research practices in professional and academic settings.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
