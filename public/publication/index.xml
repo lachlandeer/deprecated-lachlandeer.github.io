@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Lachlan Deer</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Lachlan Deer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Endogenous Riot Networks</title>
+      <link>/publication/endogenous-riots/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/endogenous-riots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swipe Right for an STI? Tinder and the Increase STIs in the United States</title>
+      <link>/publication/tinder-sti/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tinder-sti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals</title>
+      <link>/publication/trendy-topics/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/trendy-topics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender Effects and Loss Aversion: Yes, No, Maybe?</title>
+      <link>/publication/gender-loss-aversion/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gender-loss-aversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behaviourally Accurate Measures of Loss Aversion</title>
+      <link>/publication/behav-accurate-loss-aversion/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/behav-accurate-loss-aversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumption and Asset Trading Behaviour in a Dynamic Experimental Economy</title>
+      <link>/publication/bubbles-income/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bubbles-income/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demandr: Nested Logit Demand Estimation with Aggregate Market Shares (R package)</title>
+      <link>/publication/demandr/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/demandr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mergersim: Merger Simulation Analysis with R (R package)</title>
+      <link>/publication/mergersim/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mergersim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Regulation of Public Service Broadcasters: Should there be more advertising on television?</title>
+      <link>/publication/psb-regulation-uk/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/psb-regulation-uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commitment and Cooperation in Partnerships</title>
+      <link>/publication/pledges-of-commitment/</link>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pledges-of-commitment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
